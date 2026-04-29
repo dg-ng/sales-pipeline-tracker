@@ -159,7 +159,6 @@ Natural-language AI agent with 3 structured topics:
 
 **Nguyen Loi Thanh Dung**
 Bachelor of Data Science — University of Economics Ho Chi Minh City (UEH)
-GPA: 3.79 / 4.0 | IELTS 7.0
 
 [![GitHub](https://img.shields.io/badge/GitHub-dg--ng-181717?style=flat-square&logo=github)](https://github.com/dg-ng)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-dung--nguyen070205-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/dung-nguyen070205)

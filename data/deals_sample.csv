@@ -1,0 +1,31 @@
+﻿Deal Name,Customer Name,Deal Value,Stage,Expected Close Date,Sales Rep,Notes
+Deal-001,Công ty ABC,150000000,Lead,2025-01-15,Minh,Mới liên hệ
+Deal-002,Tập đoàn XYZ,320000000,Won,2025-01-20,Hoa,Đã ký hợp đồng
+Deal-003,Công ty DEF,85000000,Lost,2025-01-28,Tuấn,Khách chọn đối thủ
+Deal-004,Startup GHI,200000000,Proposal,2025-02-05,Minh,Đang chờ phê duyệt
+Deal-005,Công ty JKL,95000000,Qualified,2025-02-10,Hoa,Đã demo sản phẩm
+Deal-006,Tập đoàn MNO,450000000,Won,2025-02-15,Minh,Hợp đồng 1 năm
+Deal-007,Công ty PQR,175000000,Lost,2025-02-20,Tuấn,Ngân sách không phù hợp
+Deal-008,Công ty STU,260000000,Won,2025-02-25,Hoa,Upsell thành công
+Deal-009,Tập đoàn VWX,380000000,Proposal,2025-03-01,Tuấn,Gửi báo giá rồi
+Deal-010,Startup YZA,110000000,Lead,2025-03-05,Minh,Mới liên hệ lần đầu
+Deal-011,Công ty BCD,290000000,Won,2025-03-08,Hoa,Khách hài lòng
+Deal-012,Tập đoàn EFG,520000000,Qualified,2025-03-12,Tuấn,Đang đánh giá
+Deal-013,Công ty HIJ,140000000,Lost,2025-03-15,Minh,Dự án bị hủy
+Deal-014,Startup KLM,180000000,Won,2025-03-18,Hoa,Thanh toán nhanh
+Deal-015,Công ty NOP,230000000,Proposal,2025-03-22,Minh,Đang thương lượng giá
+Deal-016,Tập đoàn QRS,670000000,Lead,2025-03-25,Tuấn,Khách lớn tiềm năng
+Deal-017,Công ty TUV,125000000,Won,2025-03-28,Hoa,Hợp đồng ngắn hạn
+Deal-018,Startup WXY,95000000,Qualified,2025-04-01,Minh,Demo tuần tới
+Deal-019,Công ty ZAB,310000000,Lost,2025-04-03,Tuấn,Chọn giải pháp khác
+Deal-020,Tập đoàn CDE,480000000,Won,2025-04-05,Hoa,Khách VIP
+Deal-021,Công ty FGH,160000000,Proposal,2025-04-08,Tuấn,Chờ họp nội bộ
+Deal-022,Startup IJK,75000000,Lead,2025-04-10,Minh,Inbound từ website
+Deal-023,Công ty LMN,285000000,Won,2025-04-12,Hoa,Renew hợp đồng
+Deal-024,Tập đoàn OPQ,590000000,Qualified,2025-04-15,Tuấn,Đang POC
+Deal-025,Công ty RST,195000000,Lost,2025-04-17,Minh,Hết ngân sách
+Deal-026,Startup UVW,430000000,Proposal,2025-04-19,Hoa,Báo giá lần 2
+Deal-027,Công ty XYZ2,115000000,Won,2025-04-20,Tuấn,Thanh toán xong
+Deal-028,Tập đoàn ABC2,740000000,Lead,2025-04-22,Minh,Referral từ khách cũ
+Deal-029,Công ty DEF2,270000000,Qualified,2025-04-24,Hoa,Đã gặp C-level
+Deal-030,Startup GHI2,350000000,Proposal,2025-04-26,Tuấn,Đang review contract
